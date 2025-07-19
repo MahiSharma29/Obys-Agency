@@ -91,21 +91,19 @@ body{
     text-transform: uppercase;
     font-weight: 900;
     opacity: 0;
-<<<<<<< HEAD
+
     animation-name: loader-Anime; 
-=======
+
     /* animation-name: anime; */
->>>>>>> d61799b5a30d1984886cd2c8c6fde9224b241f1d
+
     animation-duration: 2s;
     animation-iteration-count: infinite;
 
 }
 
-<<<<<<< HEAD
+
 @keyframes loader-Anime{
-=======
-@keyframes anime{
->>>>>>> d61799b5a30d1984886cd2c8c6fde9224b241f1d
+
     0%{
         font-family: 'Plain Light';
         -webkit-text-stroke: 1px #fff;
@@ -256,10 +254,7 @@ body{
 }
 #video-cursor i{
     font-size: 2vw;
-<<<<<<< HEAD
-    
-=======
->>>>>>> d61799b5a30d1984886cd2c8c6fde9224b241f1d
+
 }
 
 #page3{
