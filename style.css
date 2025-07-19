@@ -91,13 +91,13 @@ body{
     text-transform: uppercase;
     font-weight: 900;
     opacity: 0;
-    /* animation-name: anime; */
+    animation-name: loader-Anime; 
     animation-duration: 2s;
     animation-iteration-count: infinite;
 
 }
 
-@keyframes anime{
+@keyframes loader-Anime{
     0%{
         font-family: 'Plain Light';
         -webkit-text-stroke: 1px #fff;
@@ -248,6 +248,7 @@ body{
 }
 #video-cursor i{
     font-size: 2vw;
+    
 }
 
 #page3{
